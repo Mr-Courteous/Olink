@@ -227,6 +227,7 @@ ul {
 @media only screen and (max-width: 600px){
     .big-name{
         padding-left:0;
+        margin-left:20px;
     }
 }
 .testimonials-main{
